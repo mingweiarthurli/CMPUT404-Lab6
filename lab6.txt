@@ -1,0 +1,13 @@
+Q1:
+There are 3 ways to deploy the code to Heroku: 
+1. directly upload to Heroku using git
+2. connect to GitHub and automatically deploy one branch of the repository
+3. upload the docker to Heroku using the CLI tool
+
+Q2:
+The Procfile is used to specify the command to run when the app startup.
+It is in the format:
+<process type>: <command>
+
+Q3:
+https://murmuring-dawn-37658.herokuapp.com/polls/
